@@ -41,3 +41,6 @@ kubelet: Running
 apiserver: Running  
 kubeconfig: Configured  
 </pre>
+
+### Kubernetes Architecture:  
+<img src="imgs/K8s-architecture.jpg" alt="K8s Architecture" width=600 height=350>
