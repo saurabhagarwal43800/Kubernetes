@@ -26,6 +26,6 @@ $ kubectl get po --show-labels -w
 __Deleting the pods to shutdown the application:__  
 
 ```
-$ kubectl delete -f wordpress-v5.yaml  
-$ kubectl delete -k . 
+$ kubectl delete -f app-v1.yaml  
+$ kubectl delete -f app-v2.yaml 
 ```
